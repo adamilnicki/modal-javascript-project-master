@@ -60,7 +60,7 @@ window.onload = function () {
     });
   });
 
-  //popup code 
+  //popup code
   let lightBox = document.querySelector(".lightbox-container");
   let lightItem = document.querySelector(".lightbox-item");
   //let storeItems = document.querySelectorAll(".store-item");
